@@ -32,5 +32,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/armatthe/stanford-corenlp-2012-07-09/stanford-corenlp-2012-07-06-models.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
